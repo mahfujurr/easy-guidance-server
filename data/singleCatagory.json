@@ -1,0 +1,75 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "BAN V SA",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "team1_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
+    "team2_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+  },
+  {
+    "_id": "996",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "BAN V SA",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "team1_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
+    "team2_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+  },
+  {
+    "_id": "997",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "BAN V SA",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "team1_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
+    "team2_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+  },
+  {
+    "_id": "998",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "BAN V SA",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "team1_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
+    "team2_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+  }
+  
+]
