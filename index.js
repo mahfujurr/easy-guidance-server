@@ -5,31 +5,31 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 const catagories = require('./data/catagories.json')
-const news = require('./data/singleCatagory.json');
+const tutorial = require('./data/singleCatagory.json');
 const e = require('express');
 
 app.get('/', (req, res) => {
     res.send('server is running')
 })
 
-app.get('/news', (req, res) => {
-    res.send(news);
+app.get('/tutorial', (req, res) => {
+    res.send(tutorial);
 })
 app.get('/team-catagories', (req, res) => {
     res.send(catagories);
 })
 app.get('/catagory/:id', (req, res)=>{
     const id = req.params.id;
-    const catagory_news = news.filter(n=> n.category_id === id);
-    res.send(catagory_news);
+    const catagory_tutorial = tutorial.filter(n=> n.category_id === id);
+    res.send(catagory_tutorial);
 })
-app.get('/news/:id', (req,res) =>{
+app.get('/tutorial/:id', (req,res) =>{
     const id = req.params.id;
-    const selectedNews = news.find(n=> n._id === id)
-    res.send(selectedNews);
+    const selectedTutorial = tutorial.find(n=> n._id === id)
+    res.send(selectedTutorial);
 
     console.log(req.params)
 })
 app.listen(port, () => {
-    console.log('t20 on port', port)
+    console.log(' on port', port)
 })

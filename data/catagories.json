@@ -2,37 +2,40 @@
     {
       "id": "01",
       "name": "Nuclear Physics",
-      "thumbnail_url": "https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      "thumbnail_url": "https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "thumbnail_details": "Nuclear physics is the field of physics that studies atomic nuclei and their constituents and interactions, in addition to the study of other forms of nuclear matter. Nuclear physics should not be confused with atomic physics, which studies the atom as a whole, including its electrons"
     },
     {
       "id": "02",
-      "name": "Nuclear Physics",
-      "thumbnail_url": "https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      "name": "Solid State Physics",
+      "thumbnail_url": "https://images.unsplash.com/photo-1492962827063-e5ea0d8c01f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+      "thumbnail_details": "Solid-state physics is the study of rigid matter, or solids, through methods such as quantum mechanics, crystallography, electromagnetism, and metallurgy. It is the largest branch of condensed matter physics."
     },
     {
       "id": "03",
-      "name": "Nuclear Physics",
-      "thumbnail_url": "https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      "name": "Quantum mechanics",
+      "thumbnail_url": "https://images.unsplash.com/photo-1609705024873-7add858e3036?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "thumbnail_details": "Quantum mechanics is a fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles."
     },
     {
       "id": "04",
-      "name": "Nuclear Physics",
-      "thumbnail_url": "https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      "name": "Electromagnetism",
+      "thumbnail_url": "https://images.unsplash.com/photo-1590758912283-23f700e912aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "thumbnail_details": "Electromagnetism is a branch of physics involving the study of the electromagnetic force, a type of physical interaction that occurs between electrically charged particles."
     },
     {
       "id": "05",
-      "name": "Nuclear Physics",
-      "thumbnail_url": "https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      "name": "Theory of relativity",
+      "thumbnail_url": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "thumbnail_details": "The theory of relativity usually encompasses two interrelated theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively."
     },
     {
       "id": "06",
-      "name": "Nuclear Physics",
-      "thumbnail_url": "https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-    },
-    {
-      "id": "07"
-     
+      "name": "Calculus",
+      "thumbnail_url": "https://wallpapercave.com/wp/wp2790115.jpg",
+      "thumbnail_details": "Calculus, originally called infinitesimal calculus or 'the calculus of infinitesimals', is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations."
     }
+    
     
     
   ]

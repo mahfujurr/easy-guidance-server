@@ -8,68 +8,18 @@
     "category_id": "01",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_view": 488,
-    "title": "BAN V SA",
+    "title": "Nuclear Physics",
+    "name": "Nuclear Physics",
+    "photoURL": "https://images.unsplash.com/photo-1527409335569-f0e5c91fa707?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "details": "Nuclear physics is the field of physics that studies atomic nuclei and their constituents and interactions, in addition to the study of other forms of nuclear matter. Nuclear physics should not be confused with atomic physics, which studies the atom as a whole, including its electrons",
+
     "author": {
       "name": "Jimmy Dane",
       "published_date": "2022-08-24 17:27:34",
       "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "team1_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
-    "team2_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
-  },
-  {
-    "_id": "996",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
-    "category_id": "02",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_view": 488,
-    "title": "BAN V SA",
-    "author": {
-      "name": "Jimmy Dane",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "team1_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
-    "team2_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
-  },
-  {
-    "_id": "997",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
-    "category_id": "03",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_view": 488,
-    "title": "BAN V SA",
-    "author": {
-      "name": "Jimmy Dane",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "team1_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
-    "team2_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
-  },
-  {
-    "_id": "998",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
-    "category_id": "04",
-    "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_view": 488,
-    "title": "BAN V SA",
-    "author": {
-      "name": "Jimmy Dane",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
-    },
-    "team1_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/800px-Flag_of_Bangladesh.svg.png",
-    "team2_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    }
+    
   }
+  
   
 ]
